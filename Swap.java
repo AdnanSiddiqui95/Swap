@@ -2,6 +2,7 @@ public class Swap
     {
       public static void main(String[] args)
         {  
+		// Swapping of two variables with the help of third variable 
           String name ="Adnan";
           String lstname="Siddiqui";
 	  System.out.println("Name and Lastname before swap   =  " +name+ "  ,  " +lstname);	
